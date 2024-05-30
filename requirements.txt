@@ -1,0 +1,7 @@
+openai
+pyttsx3
+sounddevice
+numpy
+scipy
+webrtcvad
+streamlit
